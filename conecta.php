@@ -1,6 +1,6 @@
 <?php
 
-require 'vendor/autoload.php' ;
+
 
 //$uri="mongodb://localhost:27017/costbd?ssl=false";
 $bd="costbd";
