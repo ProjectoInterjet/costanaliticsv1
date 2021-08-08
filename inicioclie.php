@@ -48,7 +48,7 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link" href="inicioclie.php"><b>Inicio</b></a></li>
-                        <li class="nav-item"><a class="nav-link" href="#"><b>Acerca de Nosotros</b></a></li>
+                      
                         
                         <li class="btn-danger"><a href="index.php" class="nav-link"><i aria-hidden="true"><b><u>Cerrar Sesion</u></b></i></a> </li>
                     </ul>

@@ -48,7 +48,7 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link" href="index.php"><b>Home</b></a></li>
-                        <li class="nav-item"><a class="nav-link" href="#"><b>Acerca de Nosotros</b></a></li>
+                        
                      
                     </ul>
                     <a href="login.php" class="login"><i class="fa fa-user" aria-hidden="true"></i><b>Login</b></a>

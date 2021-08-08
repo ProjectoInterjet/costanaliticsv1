@@ -81,7 +81,7 @@
                         <form class="login100-form validate-form p-b-33 p-t-5" action="presupuestoa.php" method="POST">
 
 					        <div class="wrap-input100 validate-input" data-validate = "Ingresa un nombre del Proyecto">
-						        <input class="btn btn mb-2" class="input100" type="text" name="nompro" placeholder="Nombre del Proyecto"
+						        <input class="form-group col-md-6" class="input100" type="text" name="nompro" placeholder="Nombre del Proyecto"
 						           required="">
 						
 					        </div>
@@ -97,7 +97,7 @@
                               <br>
 
                             <div class="wrap-input100 validate-input" data-validate="Ingresa el nombre del cliente">
-				         		<input class="input100" type="text" name="nomclie" placeholder="Nombre del cliente"
+				         		<input class="form-group col-md-6" class="input100" type="text" name="nomclie" placeholder="Nombre del cliente"
 				            		required="">
 						
 					        </div>
@@ -105,7 +105,7 @@
                               <br>
 
                             <div class="wrap-input100 validate-input" data-validate="Ingresa la fecha de inicio">
-						        <input class="input100" type="date" name="fhini" placeholder="Fecha de Inicio"
+						        <input class="form-group col-md-6" class="input100" type="date" name="fhini" placeholder="Fecha de Inicio"
 					            	required="">
 					  	
 				           	</div>
@@ -113,7 +113,7 @@
                               <br>
 
                             <div class="wrap-input100 validate-input" data-validate="Ingresa la fecha de Termino">
-					        	<input class="input100" type="date" name="fhte" placeholder="Fecha de termino"
+					        	<input class="form-group col-md-6" class="input100" type="date" name="fhte" placeholder="Fecha de termino"
 					            	required="">
 						
 					        </div>
