@@ -1,7 +1,7 @@
 <?php
 
 require 'vendor/autoload.php';
-$uri="mongodb+srv://user:<password>@costbd.stamk.mongodb.net/test";
+$uri="mongodb+srv://user:user@costbd.stamk.mongodb.net/test";
 $bd="costbd";
 $client=new MongoDB\Client($uri);
 
