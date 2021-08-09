@@ -7,7 +7,7 @@ $bd="costbd";
 $client=new MongoDB\Client($uri);
 */
 $client = new MongoDB\Client(
-    'mongodb+srv://user:<password>@costbd.stamk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority');
+    'mongodb+srv://user:user@costbd.stamk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority');
 $db = $client->test;
 //$client = new MongoDB\Client(
   //  'mongodb+srv://cost:cost1745@cluster0.qzniz.mongodb.net/costbd?retryWrites=true&w=majority');
